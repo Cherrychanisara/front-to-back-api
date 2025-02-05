@@ -8,11 +8,14 @@ npm init -y
 ```bash
 npm install express nodemon cors morgan bcryptjs zod prisma
 ```
+```bash
+npx prisma init
+```
 
 ## Step3 Git
 ```bash
 git init 
-git add. 
+git add . 
 git commit -m "message"
 ```
 next step 
@@ -23,7 +26,9 @@ git remote add origin https://github.com/Cherrychanisara/front-to-back-api.git
 git branch -M main
 git push -u origin main
 ```
-
+when update code 
 ```bash
-npx prima init
+git add.
+git commit -m "message"
+git push
 ```
